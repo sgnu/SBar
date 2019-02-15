@@ -9,7 +9,7 @@ This widget has "6" components that display volume level, connected wifi network
 ## Installation
 With installed, you can clone this repo directly into your widget folder:
 ```
-git clone https://github.com/zzzeyez/Pecan.git $HOME/Library/Application\ Support/Übersicht/widgets/Pecan
+git clone https://github.com/zzzeyez/Pecan.git $HOME/Library/Application\ Support/Übersicht/widgets/SBar
 ```
 
 ## Configuration
