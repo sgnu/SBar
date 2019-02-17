@@ -1,6 +1,6 @@
 export const command = "osascript SBar/scripts/spotify.applescript"
 
-export const refreshFrequency = 500
+export const refreshFrequency = 1000
 
 export const render = ({output, error}) => {
     return error ? (
